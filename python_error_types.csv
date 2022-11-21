@@ -1,0 +1,31 @@
+,code_error,description
+0,AssertionError,Raised when the assert statement fails.
+1,AttributeError,Raised on the attribute assignment or reference fails.
+2,EOFError,Raised when the input() function hits the end-of-file condition.
+3,FloatingPointError,Raised when a floating point operation fails.
+4,GeneratorExit,Raised when a generator's close() method is called.
+5,ImportError,Raised when the imported module is not found.
+6,IndexError,Raised when the index of a sequence is out of range.
+7,KeyError,Raised when a key is not found in a dictionary.
+8,KeyboardInterrupt,Raised when the user hits the interrupt key (Ctrl+c or delete).
+9,MemoryError,Raised when an operation runs out of memory.
+10,NameError,Raised when a variable is not found in the local or global scope.
+11,NotImplementedError,Raised by abstract methods.
+12,OSError,Raised when a system operation causes a system-related error.
+13,OverflowError,Raised when the result of an arithmetic operation is too large to be represented.
+14,ReferenceError,Raised when a weak reference proxy is used to access a garbage collected referent.
+15,RuntimeError,Raised when an error does not fall under any other category.
+16,StopIteration,Raised by the next() function to indicate that there is no further item to be returned by the iterator.
+17,SyntaxError,Raised by the parser when a syntax error is encountered.
+18,IndentationError,Raised when there is an incorrect indentation.
+19,TabError,Raised when the indentation consists of inconsistent tabs and spaces.
+20,SystemError,Raised when the interpreter detects internal error.
+21,SystemExit,Raised by the sys.exit() function.
+22,TypeError,Raised when a function or operation is applied to an object of an incorrect type.
+23,UnboundLocalError,"Raised when a reference is made to a local variable in a function or method, but no value has been bound to that variable."
+24,UnicodeError,Raised when a Unicode-related encoding or decoding error occurs.
+25,UnicodeEncodeError,Raised when a Unicode-related error occurs during encoding.
+26,UnicodeDecodeError,Raised when a Unicode-related error occurs during decoding.
+27,UnicodeTranslateError,Raised when a Unicode-related error occurs during translation.
+28,ValueError,Raised when a function gets an argument of correct type but improper value.
+29,ZeroDivisionError,Raised when the second operand of a division or module operation is zero.
